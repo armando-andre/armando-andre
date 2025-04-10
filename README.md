@@ -43,7 +43,3 @@
 <img src="https://raw.githubusercontent.com/armando-andre/armando-andre/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img src="https://raw.githubusercontent.com/armando-andre/armando-andre/output/snake.svg" alt="Snake animation" />
-
-###
